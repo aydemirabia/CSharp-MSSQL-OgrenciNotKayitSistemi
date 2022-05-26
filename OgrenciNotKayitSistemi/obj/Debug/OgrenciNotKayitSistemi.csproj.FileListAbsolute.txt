@@ -1,0 +1,12 @@
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.exe.config
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.Properties.Resources.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.GenerateResource.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.exe
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.pdb
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.FrmOgrenciDetay.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.FrmOgrenciGiris.resources
+C:\Users\TULPAR\OneDrive\Masaüstü\CSHARP_25_PROJE\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.OgretmenDetay.resources
